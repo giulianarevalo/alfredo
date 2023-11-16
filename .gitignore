@@ -1,3 +1,6 @@
 
 data/
 config/
+.DS_Store
+*.jpg
+*.tiff
